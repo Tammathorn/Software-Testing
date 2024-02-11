@@ -1,5 +1,5 @@
 import unittest
-from two_characters import two_characters
+from 2characters import two_characters
 
 class Testtwo_characters(unittest.TestCase):
     def test_empty_string(self):

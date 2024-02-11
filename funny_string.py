@@ -1,4 +1,3 @@
-#funny string
 def funnyString(s):
     r = s[::-1]
     for i in range(1, len(s)):

@@ -1,6 +1,6 @@
 # Software-Testing
 This is my Software-Testing repository.
-My name's "Tammathorn Kananurak".
+My name is "Tammathorn Kananurak".
 6610110506
 Department of Computer Engineering, Faculty of Engineering, Prince of Songkla University
 Contact Me : Tammathorn.contact@gmail.com
